@@ -65,6 +65,6 @@
     "zod": "^4.1.0"
   },
   "peerDependencies": {
-    "@middy/core": "^6.0.0"
+    "@middy/core": "^4 || ^5 || ^6"
   }
 }
